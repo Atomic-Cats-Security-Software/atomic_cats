@@ -1,7 +1,7 @@
 ![Atomic Cats Logo](logo.png)
 # Atomic Cats - главный репозиторий
 
-Мы — команда разработчиков **Atomic Cats Security & Software**.
+Мы — команда разработчиков Atomic Cats Security & Software.
 
 ## Контакты
 - GitHub: [Qasar038](https://github.com/Qasar038)
